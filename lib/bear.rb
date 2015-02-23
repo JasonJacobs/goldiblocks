@@ -38,6 +38,6 @@ class Bear
   def just_missed(missee)
     puts "#{name} barely misses and allows #{missee.name} to get away."
     puts "#{missee.name} runs away in the forest, never to be seen by the bear family again."
-    puts "Hopefully #{missee.name} stops eating other people's porridge."
+    puts "Hopefully #{missee.name} stops eating other people's porridge. It's totally not cool."
   end
 end
